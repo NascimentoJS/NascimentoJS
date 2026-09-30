@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Gabriel Nascimento
 
-<!--
-**NascimentoJS/NascimentoJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Desenvolvedor de Software | JavaScript, Back-end & Banco de Dados
+- 🎓 Graduando em Ciência da Computação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Sobre mim
+
+🚀 Sou desenvolvedor com foco em desenvolvimento de software, com experiência prática na construção de aplicações web, sistemas e bancos de dados.
+
+💻 Atualmente atuo com **programação de sistemas de incêndio**, desenvolvendo uma visão voltada à resolução de problemas, lógica, atenção aos detalhes e execução de soluções.
+
+🎓 Sou graduando em **Ciência da Computação**, buscando constantemente aprimorar meus conhecimentos em desenvolvimento de software, programação, bancos de dados e arquitetura de sistemas.
+
+🛠️ Ao longo da minha formação venho desenvolvendo projetos envolvendo **JavaScript, HTML, CSS, PHP, Java e SQL**, explorando desde interfaces web e sistemas institucionais até modelagem de bancos de dados e lógica de programação.
+
+🎯 Meu objetivo profissional é atuar no desenvolvimento de software, contribuindo para projetos que envolvam desafios técnicos, construção de soluções eficientes e evolução contínua em tecnologia.
+
+---
+
+## 🛠️ Principais tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJS&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### ⚖️ Site de Advocacia
+
+Site institucional desenvolvido com **HTML5, CSS3, JavaScript e PHP**, contendo páginas voltadas para diferentes áreas de atuação, organização de conteúdo, identidade visual e integração com canais de contato.
+
+**Tecnologias:** HTML5 • CSS3 • JavaScript • PHP
+
+---
+
+### 🛒 Sistema de Loja de Eletrônicos
+
+Projeto de banco de dados desenvolvido em **SQL**, simulando a estrutura de uma loja de eletrônicos.
+
+O projeto trabalha conceitos de modelagem e relacionamento entre entidades, além de consultas utilizando `JOIN`, `GROUP BY`, `HAVING`, `SUM`, `AVG`, `COUNT`, entre outros recursos.
+
+**Tecnologias:** SQL • Banco de Dados Relacional
+
+---
+
+### 🧮 Calculadora em Java
+
+Aplicação desenvolvida em **Java** para prática de lógica de programação, utilizando entrada de dados, estruturas condicionais, `switch/case`, operações matemáticas e tratamento de divisão por zero.
+
+**Tecnologias:** Java • Lógica de Programação
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="mailto:gabrielstor222@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-333333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-nascimento-504100276/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5511942497426">
+    <img src="https://img.shields.io/badge/WHATSAPP-00C853?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
