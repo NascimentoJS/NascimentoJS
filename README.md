@@ -37,35 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NascimentoJS&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
 </p>
 
----
-
-## 🚀 Projetos em destaque
-
-### ⚖️ Site de Advocacia
-
-Site institucional desenvolvido com **HTML5, CSS3, JavaScript e PHP**, contendo páginas voltadas para diferentes áreas de atuação, organização de conteúdo, identidade visual e integração com canais de contato.
-
-**Tecnologias:** HTML5 • CSS3 • JavaScript • PHP
-
----
-
-### 🛒 Sistema de Loja de Eletrônicos
-
-Projeto de banco de dados desenvolvido em **SQL**, simulando a estrutura de uma loja de eletrônicos.
-
-O projeto trabalha conceitos de modelagem e relacionamento entre entidades, além de consultas utilizando `JOIN`, `GROUP BY`, `HAVING`, `SUM`, `AVG`, `COUNT`, entre outros recursos.
-
-**Tecnologias:** SQL • Banco de Dados Relacional
-
----
-
-### 🧮 Calculadora em Java
-
-Aplicação desenvolvida em **Java** para prática de lógica de programação, utilizando entrada de dados, estruturas condicionais, `switch/case`, operações matemáticas e tratamento de divisão por zero.
-
-**Tecnologias:** Java • Lógica de Programação
-
----
+--
 
 ## 🌐 Onde me encontrar
 
